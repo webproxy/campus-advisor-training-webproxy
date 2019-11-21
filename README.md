@@ -1,5 +1,4 @@
-# Welcome to Campus Advisor Training
-
+# Welcome to CA Training
 Welcome to Campus Advisor training. You will be presented with video lessons and asked to complete assignments for each video lesson. All of the videos and assignments can be found in this repository. You are welcome to navigate around this repository, or you are welcome to just follow the links like the one at the bottom of this README to help you progress through the training.
 
 In each module, you will find video lessons marked with this icon :tv: and assignments will be marked with this icon :notebook:. You can find your first video below:
